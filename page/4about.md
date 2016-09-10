@@ -1,3 +1,13 @@
+---
+layout: page
+title: About
+permalink: /about/
+icon: heart
+---
+
+* content
+{:toc}
+
 # 联系方式
 
 - 手机：  15579163176
@@ -94,3 +104,7 @@
 - 2014-2015 国家三等奖学金
 - 2015-2016 英语四级通过
 - 2015-2016 国家三等奖学金
+
+## Comments
+
+{% include comments.html %}
