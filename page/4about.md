@@ -105,6 +105,8 @@ icon: heart
 - 2015-2016 英语四级通过
 - 2015-2016 国家三等奖学金
 
-## Comments
+---
+
+# Comments
 
 {% include comments.html %}
