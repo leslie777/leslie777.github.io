@@ -8,6 +8,9 @@ icon: heart
 * content
 {:toc}
 
+# 简历下载
+ - markdown：[个人简历-樊凯.md][1]
+ - word: [个人简历-樊凯.docx][2]
 # 联系方式
 
 - 手机：  15579163176
@@ -19,8 +22,8 @@ icon: heart
 
 - **樊凯**/ 男/ 1994.10
 - 毕业院校：南昌航空大学 软件工程专业
-- Blog：             https://leslie777.github.io
-- GitHub：        https://github.com/leslie777
+- Blog：             [https://leslie777.github.io][3]
+- GitHub：        [https://github.com/leslie777][4]
 
 ---
 
@@ -110,3 +113,9 @@ icon: heart
 # Comments
 
 {% include comments.html %}
+
+
+  [1]: http://ode4iz3qu.bkt.clouddn.com/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86-%E6%A8%8A%E5%87%AF.md
+  [2]: http://ode4iz3qu.bkt.clouddn.com/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86-%E6%A8%8A%E5%87%AF.docx
+  [3]: https://leslie777.github.io
+  [4]: https://github.com/leslie777
