@@ -17,7 +17,7 @@ icon: heart
 # 联系方式
 
 - 手机：  15579163176
-- Email：leslie@foxmail.com
+- Email：leslie.1994@foxmail.com
 
 ---
 
