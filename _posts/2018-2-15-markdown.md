@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "markdown"
-categories: markdown
+categories: Markdown
 tags:  markdown 笔记
 excerpt: 更为全面的markdown使用教程
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SpringMvc的几个阶段"
-categories: SpringMvc
+categories: Spring
 tags:  Spring 源码 J2EE
 excerpt: 学习了解SpringMvc的几个阶段，有助于理解源码，并自己模拟实现基本功能
 ---
